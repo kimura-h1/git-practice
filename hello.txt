@@ -1,1 +1,5 @@
 Hello Git! 
+これは2回目の編集です
+featureブランチからの編集です
+追加の練習です
+Pull Request を作るための追記です
