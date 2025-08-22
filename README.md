@@ -39,7 +39,10 @@ git commit -m "PR用の追記"
 ```
 
 ## 5. 履歴を確認
+
+```bash
 git log --oneline --graph --decorate --all
+```
 
 ## 6. GitHub と接続
 
