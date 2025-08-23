@@ -63,9 +63,6 @@ git push origin v1.0
 
 ```bash
 git stash
-```
-
-```bash
 # 復元
 git stash pop
 ```
