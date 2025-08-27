@@ -42,7 +42,6 @@
 
 - [Git 公式ドキュメント](https://git-scm.com/doc)
 - [GitHub Docs](https://docs.github.com/ja)
-- [日本語解説 & サポートサイト GPTJP.net](https://gptjp.net/)
 
 ---
 
